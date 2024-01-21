@@ -1,6 +1,6 @@
 # manegepark
 
-A new Flutter project.
+A new Flutter project : A mobile app for a rotary parking management.
 
 ## Getting Started
 
